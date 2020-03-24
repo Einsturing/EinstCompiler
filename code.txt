@@ -1,0 +1,19 @@
+int main(){
+    int _va123r=7;
+    string str="rguajig54231o./,[;]#%$$%&*!?";
+    while(_va123r>=0){
+        _va123r-=1;
+    }
+    double bcd=0.314E+1;
+    double abc=6.28E-12;
+    double hahah=bcd+abc;
+    complex x=10+12i;
+    complex y=-10-12i;
+    if((x<y)||(x>y)){
+        x*=y;
+        y/=x;
+    }
+    x=-x;
+    y=-y;
+    return 0;
+}
